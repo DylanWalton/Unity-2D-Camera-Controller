@@ -1,0 +1,6 @@
+To set up the script follow these simple steps :
+-> Add the CameraFollow script into your project
+-> Add it to the camera as a component (the camera that you want to follow the player)
+-> Specify the required parameters and fine tune it to your needs
+
+NOTE : the gizmo (colored area) does not change to show offset, only size. The offset will still work.
